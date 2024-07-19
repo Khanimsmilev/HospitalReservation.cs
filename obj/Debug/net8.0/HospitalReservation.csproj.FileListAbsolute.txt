@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\HospitalReservation\HospitalReservation\bin\Debug\net8.0\HospitalReservation.exe
+C:\Users\user\source\repos\HospitalReservation\HospitalReservation\bin\Debug\net8.0\HospitalReservation.deps.json
+C:\Users\user\source\repos\HospitalReservation\HospitalReservation\bin\Debug\net8.0\HospitalReservation.runtimeconfig.json
+C:\Users\user\source\repos\HospitalReservation\HospitalReservation\bin\Debug\net8.0\HospitalReservation.dll
+C:\Users\user\source\repos\HospitalReservation\HospitalReservation\bin\Debug\net8.0\HospitalReservation.pdb
+C:\Users\user\source\repos\HospitalReservation\HospitalReservation\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\user\source\repos\HospitalReservation\HospitalReservation\obj\Debug\net8.0\HospitalReservation.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\HospitalReservation\HospitalReservation\obj\Debug\net8.0\HospitalReservation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HospitalReservation\HospitalReservation\obj\Debug\net8.0\HospitalReservation.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HospitalReservation\HospitalReservation\obj\Debug\net8.0\HospitalReservation.AssemblyInfo.cs
+C:\Users\user\source\repos\HospitalReservation\HospitalReservation\obj\Debug\net8.0\HospitalReservation.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HospitalReservation\HospitalReservation\obj\Debug\net8.0\Hospital.F5CF8F0A.Up2Date
+C:\Users\user\source\repos\HospitalReservation\HospitalReservation\obj\Debug\net8.0\HospitalReservation.dll
+C:\Users\user\source\repos\HospitalReservation\HospitalReservation\obj\Debug\net8.0\refint\HospitalReservation.dll
+C:\Users\user\source\repos\HospitalReservation\HospitalReservation\obj\Debug\net8.0\HospitalReservation.pdb
+C:\Users\user\source\repos\HospitalReservation\HospitalReservation\obj\Debug\net8.0\HospitalReservation.genruntimeconfig.cache
+C:\Users\user\source\repos\HospitalReservation\HospitalReservation\obj\Debug\net8.0\ref\HospitalReservation.dll

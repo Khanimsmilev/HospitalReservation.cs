@@ -1,0 +1,24 @@
+[
+  {
+    "User": {
+      "Name": "xanim",
+      "Surname": "ismayilova",
+      "Email": "email",
+      "Phone": "phone"
+    },
+    "Department": "Stomatology",
+    "Doctor": "Qulu",
+    "TimeSlot": "12:00-14:00"
+  },
+  {
+    "User": {
+      "Name": "Seymur",
+      "Surname": "Ismayilov",
+      "Email": "SEMSMILEV",
+      "Phone": "055428"
+    },
+    "Department": "Stomatology",
+    "Doctor": "Polad",
+    "TimeSlot": "15:00-17:00"
+  }
+]

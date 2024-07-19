@@ -1,0 +1,107 @@
+[
+  {
+    "Name": "Pediatrics",
+    "Doctors": [
+      {
+        "Name": "Oqtay",
+        "Surname": "Huseynov",
+        "Experience": 10,
+        "AppointmentSlots": {
+          "09:00-11:00": false,
+          "12:00-14:00": false,
+          "15:00-17:00": false
+        }
+      },
+      {
+        "Name": "Xedice",
+        "Surname": "Ismayilova",
+        "Experience": 8,
+        "AppointmentSlots": {
+          "09:00-11:00": false,
+          "12:00-14:00": false,
+          "15:00-17:00": false
+        }
+      },
+      {
+        "Name": "Cemil",
+        "Surname": "Aliyev",
+        "Experience": 12,
+        "AppointmentSlots": {
+          "09:00-11:00": false,
+          "12:00-14:00": false,
+          "15:00-17:00": false
+        }
+      }
+    ]
+  },
+  {
+    "Name": "Traumatology",
+    "Doctors": [
+      {
+        "Name": "Said",
+        "Surname": "Alirza",
+        "Experience": 15,
+        "AppointmentSlots": {
+          "09:00-11:00": false,
+          "12:00-14:00": false,
+          "15:00-17:00": false
+        }
+      },
+      {
+        "Name": "Rza",
+        "Surname": "Quliyev",
+        "Experience": 7,
+        "AppointmentSlots": {
+          "09:00-11:00": false,
+          "12:00-14:00": false,
+          "15:00-17:00": false
+        }
+      }
+    ]
+  },
+  {
+    "Name": "Stomatology",
+    "Doctors": [
+      {
+        "Name": "Nigar",
+        "Surname": "Suleymanova",
+        "Experience": 5,
+        "AppointmentSlots": {
+          "09:00-11:00": false,
+          "12:00-14:00": false,
+          "15:00-17:00": false
+        }
+      },
+      {
+        "Name": "Qulu",
+        "Surname": "Heybetov",
+        "Experience": 9,
+        "AppointmentSlots": {
+          "09:00-11:00": false,
+          "12:00-14:00": true,
+          "15:00-17:00": false
+        }
+      },
+      {
+        "Name": "Ilqar",
+        "Surname": "Yamanov",
+        "Experience": 4,
+        "AppointmentSlots": {
+          "09:00-11:00": false,
+          "12:00-14:00": false,
+          "15:00-17:00": false
+        }
+      },
+      {
+        "Name": "Polad",
+        "Surname": "Aslanov",
+        "Experience": 6,
+        "AppointmentSlots": {
+          "09:00-11:00": false,
+          "12:00-14:00": false,
+          "15:00-17:00": true
+        }
+      }
+    ]
+  }
+]
